@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+
+}
+body{
+    background-image: url(back.png);
+}
+.cardlist{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin:25px;
+    gap: 20px;
+
+
+}
+.image img{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
+.card{
+    height: 450px;
+    width:400px;
+    background-color: white;
+    border-radius: 20px;
+    
+    
+}
+.card p{
+    font-size: 15px;
+    font-weight: bold;
+
+}
+.but{
+    padding-left: 150px;
+    background-color: aquamarine;
+    font-size: 25px;
+    border-radius: 25px;
+    
+    
+
+}
+.but a{
+    text-decoration: none;
+    font-weight: bold;
+  
+}
+h2{
+font-size: 20px;
+
+}

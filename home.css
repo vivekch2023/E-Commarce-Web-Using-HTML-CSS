@@ -1,0 +1,98 @@
+body{
+    
+    background-image: url(back.png);
+}
+.head{
+    border-radius: 10px;
+    
+  
+    
+}
+img{
+    margin-top: 20px;
+    height: 420px;
+    width: 100%;
+    border-radius: 10px;
+  
+}
+.logo{
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-family:system-ui;
+    font-weight: bolder;
+    color:black;
+}
+
+.navbar a{
+    text-decoration: none;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 20px;
+    color: black;
+    font-family:system-ui;
+    margin-left: 30px;
+   
+}
+h1{
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 8px;
+    margin-bottom: 10px;
+}
+.cardlist{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    gap: 15px;
+    margin-left: 40px;
+
+}
+.image img{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+.card{
+    height: 400px;
+    width:400 ;
+    background-color: white;
+    border-radius: 20px;
+}
+.card p{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+
+.foot{
+    margin-top: 20px;
+    width: 100%;
+
+}
+.foot p{
+    font-size: 30px;
+    text-align: center;
+    font-weight:bold;
+    color:white;
+}
+.foot h2{
+    text-align: center;
+    font-size: 40px;
+}
+.card a{
+    text-decoration: none;
+}
+footer{
+    background-image: url(bag.jpg);
+    border-radius: 10px;
+}
+#fav{
+    height: 80px;
+    width: 80px;
+   padding-right: 1300px; 
+}
